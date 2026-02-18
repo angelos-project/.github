@@ -15,7 +15,8 @@ The goal of Angelos Project™ is to equip Christian assemblies with practical, 
 fellowship and ministry in environments where surveillance, censorship, or platform dependency pose increasing threats.
 
 ## Intellectual Property Rights
-All trademarks, patents, and related or neighboring rights associated with Angelos Project™ are the sole property of Kristoffer 
-Paulsson. A future angelos foundation may be granted use and the right to sublicense without conferral of ownership. Notwithstanding 
-the use of labels, logotypes, patents, trademarks and any other related or neighboring rights, claims by other entities shall be withstood. 
-Contested claims should be proven first before any tort or litigation with claims in court.
+All trademarks, patents, and related or neighboring rights associated with Angelos Project™ 
+are the sole property of Kristoffer Paulsson. Also a possible future angelos foundation may 
+be granted sublicense without confer. Notwithstanding the use of labels, logotypes, patents, 
+trademarks or neighboring rights. Withstanding claims by other entities, contested claims 
+should be proven first before any tort or litigation with claims in court.
