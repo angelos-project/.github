@@ -38,6 +38,11 @@ alignment of usability.
 
 ## 2. How the Development Process Works
 
+We use the [Fork and Pull Request model](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for the moment.
+The contributor is expected to keep their fork up to date 
+with the main repository.
+
+
 ### 2.1. The Big Picture
 ### 2.2. The Lifecycle of a Patch
 ### 2.3. How Patches Get Into the Software
