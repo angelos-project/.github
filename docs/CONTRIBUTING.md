@@ -17,8 +17,10 @@ appointed license already put in place in the repository. Code which has
 not been licensed as free software by its owner, or which risks creating
 copyright-related problems for the Angelos Project™ (such as code which
 derives from reverse-engineering efforts lacking proper safeguards)
-cannot be contributed. The license for upcoming repositories is ruled by 
-governance at any future point in time for coherence.
+cannot be contributed. The appointment of license for future (new) 
+repositories is ruled by governance at any time to ensure overall 
+alignment of usability.
+
 
 ## 2. How the Development Process Works
 
