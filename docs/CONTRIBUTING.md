@@ -2,6 +2,20 @@
 
 ## 1. Introduction
 
+Welcome to the Angelos Project™! We are excited that you are interested
+in contributing to our project. This document is intended to provide you
+with all the information you need to get started with contributing to
+the project. Whether you are a seasoned developer or new to open source,
+we hope this guide will help you navigate the contribution process and
+make it as smooth as possible.
+
+**Note**: This document is currently under active development and may be
+updated, revised, or refined at any time. Changes can be made whenever
+questions or issues arise regarding contributor conduct, development
+procedures, or contribution processes, and similar matters. Please check
+back over time for updates and revisions.
+
+
 ### 1.1. Executive Summary
 ### 1.2. What This Document Is About
 ### 1.3. Credits
