@@ -62,6 +62,8 @@ with the main repository.
 
 ## 4. Getting the Code Right
 
+(To be revised)
+
 The project has a structure that builds on several low-level libraries
 that need to be compatible with each other in order to work together.
 This is part of the Kotlin/Multiplatform nature as developed by
