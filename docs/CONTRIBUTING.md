@@ -57,6 +57,23 @@ alignment of usability.
 
 ## 4. Getting the Code Right
 
+The project has a structure that builds on several low-level libraries
+that need to be compatible with each other in order to work together.
+This is part of the Kotlin/Multiplatform nature as developed by
+JetBrains and is a legacy for the whole Kotlin ecosystem. Also Kotlin is
+keeping up with emerging commercial platforms which it add support for,
+and also deprecated when they are not viable. Therefore, it is necessary
+to keep in sync with the further development. Because of limited
+developers and contributors, we need to minimize the risk of coming
+quirks in Kotlin and its libraries. Thereby it is imperative to follow
+best practices to not shoot ourselves in the foot. By having ourselves
+rewrite things all the time but rather letting the codebase mature for
+high security and stability. All for the sake of maintaining usability,
+reliability and security, and minimize any risk of regression and
+related issues. Urges to write one owns coding style must be permanently
+limited for best practices and survivability of the project as an
+organization.
+
 ### 4.1. Pitfalls
 ### 4.2. Code Checking Tools
 ### 4.3. Documentation
