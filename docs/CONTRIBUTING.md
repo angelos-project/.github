@@ -8,16 +8,28 @@
 ### 1.4. The Importance of Getting Code Into the Mainline
 ### 1.5. Licensing
 
+It is imperative that all code contributed to the Angelos Project™ be
+legitimately free software. For that reason, code from contributors
+without a known identity or anonymous contributors will not be accepted.
+All contributors are required to “sign off” on their code, stating that
+the code can be distributed with the Angelos Project™ under the
+appointed license already put in place in the repository. Code which has
+not been licensed as free software by its owner, or which risks creating
+copyright-related problems for the Angelos Project™ (such as code which
+derives from reverse-engineering efforts lacking proper safeguards)
+cannot be contributed. The license of coming repositories is ruled by 
+governance at any future point in time for coherence.
+
 ## 2. How the Development Process Works
 
 ### 2.1. The Big Picture
 ### 2.2. The Lifecycle of a Patch
-### 2.3. How Patches Get Into the Kernel
+### 2.3. How Patches Get Into the Software
 ### 2.4. Next Trees
 ### 2.5. Staging Trees
 ### 2.6. Tools
 ### 2.7. Mailing Lists
-### 2.8. Getting Started With Kernel Development
+### 2.8. Getting Started With Angelos Development
 
 ## 3. Early-Stage Planning
 
@@ -48,7 +60,7 @@
 ### 6.2. What Happens Next
 ### 6.3. Other Things That Can Happen
 
-## 7. Advanced Ropics
+## 7. Advanced Topics
 
 ### 7.1. Managing Patches With Git
 ### 7.2. Reviewing Patches
