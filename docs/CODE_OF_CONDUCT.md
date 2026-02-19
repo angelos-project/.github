@@ -68,6 +68,6 @@ When using generative AI to contribute to the community:
 
 These practices support a community built on trust, collaboration, and mutual respect. Misuse of AI-generated content may be considered a violation of our Code of Conduct. Please refer to the enforcement section for more details.
 
-### **Attribution**
+## **Attribution**
 
 This Code of Conduct is adapted from the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), available at [https://opensource.microsoft.com/codeofconduct/](https://opensource.microsoft.com/codeofconduct/) as of February 19, 2026\.
